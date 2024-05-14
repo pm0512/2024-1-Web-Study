@@ -33,7 +33,6 @@
 - `< h1 > ~ < h6 >` Heading 
 - `< p >` Paragraph
 
----
 # CSS
 ### Canscading Style Sheets
 
